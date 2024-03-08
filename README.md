@@ -6,7 +6,7 @@ Adds linebreaks to .rot files to help readability, and removes them again so the
 - [Download linebreakadder.exe](https://github.com/jwansek/GPlatesHelpers/releases/download/default/linebreakadder.exe)
 - [Download linebreakremover.exe](https://github.com/jwansek/GPlatesHelpers/releases/download/default/linebreakremover.exe)
 
-## Line Break Remover
+## Line Break Adder
 
 `linebreakadder.exe [input .rot file] [output .rot file]` or `linebreakadder.py [input .rot file] [output .rot file]` is faster but you need python installed.
 
@@ -31,7 +31,7 @@ Adds linebreaks when the first number is different, e.g.:
 [...]
 ```
 
-## Line Break Adder
+## Line Break Remover
 
 `linebreakremover.exe [input .rot file] [output .rot file]` or `linebreakremover.py [input .rot file] [output .rot file]` is faster but you need python installed.
 
